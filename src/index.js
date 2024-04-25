@@ -5,3 +5,5 @@ import QAPI from "qapi";
 
 window.QAPI = QAPI;
 ReactDOM.render(<App />, document.getElementById("root"));
+
+alert("From Github");
